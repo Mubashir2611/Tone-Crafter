@@ -13,14 +13,9 @@ A modern React application that intelligently adjusts text tone using Mistral AI
 
 ## Demo Video 🎥
 
-See Mistral Tone Craft in action:
+![Mistral Tone Craft Demo](./assets/video/Demo.mp4.gif)
 
-<video width="100%" controls>
-  <source src="./assets/video/Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-*Watch the complete workflow: entering an API key, inputting text, selecting different tones, and seeing real-time transformations.*
+*Watch the complete workflow: inputting text, selecting different tones, and seeing real-time transformations.*
 
 ## Tech Stack 🛠️
 
