@@ -11,6 +11,17 @@ A modern React application that intelligently adjusts text tone using Mistral AI
 - **Type Safety**: Full TypeScript implementation for robust development
 - **Error Handling**: Comprehensive error boundaries and user feedback
 
+## Demo Video 🎥
+
+See Mistral Tone Craft in action:
+
+<video width="100%" controls>
+  <source src="./assets/video/Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+*Watch the complete workflow: entering an API key, inputting text, selecting different tones, and seeing real-time transformations.*
+
 ## Tech Stack 🛠️
 
 - **React 18** with TypeScript
@@ -221,14 +232,6 @@ const textHistoryReducer = (state: TextHistory, action: HistoryAction) => {
 - Bundle size optimization
 
 This architecture provides a solid foundation for scaling while maintaining code quality and user experience.
-
-## Contributing 🤝
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License 📄
-
-This project is licensed under the MIT License.
 
 ## Contact 📧
 
