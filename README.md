@@ -108,7 +108,7 @@ This project is licensed under the MIT License.
 
 Mubashir - [@Mubashir2611](https://github.com/Mubashir2611)
 
-Project Link: [https://github.com/Mubashir2611/mistral-tone-craft](https://github.com/Mubashir2611/mistral-tone-craft)
+Project Link: [https://tone-crafter-beta.vercel.app/](https://tone-crafter-beta.vercel.app/)
 
 ---
 
